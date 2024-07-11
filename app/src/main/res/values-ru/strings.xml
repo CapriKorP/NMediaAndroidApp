@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Приложение НМедиа</string>
+    <string name="hello">Привет Котлин!</string>
+    <string name="author">Нетология. Цифровой университет</string>
+    <string name="published">01 января 2024 в 00:01</string>
+    <string name="content">Lorem Ipsum - это текст-\"рыба\", часто используемый в печати и вэб-дизайне. Lorem Ipsum является стандартной \"рыбой\" для текстов на латинице с начала XVI века. В то время некий безымянный печатник создал большую коллекцию размеров и форм шрифтов, используя Lorem Ipsum для распечатки образцов. Lorem Ipsum не только успешно пережил без заметных изменений пять веков, но и перешагнул в электронный дизайн. Его популяризации в новое время послужили публикация листов Letraset с образцами Lorem Ipsum в 60-х годах и, в более недавнее время, программы электронной вёрстки типа Aldus PageMaker, в шаблонах которых используется Lorem Ipsum.</string>
+    <string name="liked">10</string>
+    <string name="shared">7</string>
+    <string name="viewed">31</string>
+    <string name="author_logo_description">Иконка автора поста</string>
+    <string name="menu_button_desc">Кнопка меню</string>
+    <string name="like_desc">Поставить лайк</string>
+    <string name="share_desc">Поделиться</string>
+    <string name="viewed_desc">Просмотрен раз</string>
+</resources>

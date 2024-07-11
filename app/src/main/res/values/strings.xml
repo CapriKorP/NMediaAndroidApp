@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">NMediaAndroidApp</string>
+    <string name="hello">Hello Kotlin!</string>
+    <string name="author">Netology. Digital university.</string>
+    <string name="content">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="liked">10</string>
+    <string name="shared">7</string>
+    <string name="viewed">31</string>
+    <string name="author_logo_description">Author icon</string>
+    <string name="menu_button_desc">Menu button</string>
+    <string name="published">January  01 2024 at 00:01</string>
+    <string name="like_desc">Like</string>
+    <string name="share_desc">Share button</string>
+    <string name="viewed_desc">Viewed post</string>
 </resources>
